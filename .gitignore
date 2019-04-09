@@ -1,0 +1,21 @@
+#producción-desarrollo
+/static/
+
+#Estos comentarios no pueden ir despues
+#de una instruccion, anula la linea entera
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.cache
+*.py[cod]
+.vscode/
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+
+#DB defecto
+db.sqlite3
