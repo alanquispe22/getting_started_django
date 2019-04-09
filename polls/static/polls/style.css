@@ -1,0 +1,8 @@
+li a{
+    color: green;
+}
+
+body{
+    /*Siempre debe usar rutas relativas para relacionar archivos staticos entre si*/
+    background: white url("images/tenor.gif") no-repeat;
+}
